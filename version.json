@@ -1,9 +1,9 @@
 {
-  "version_code": 12,
-  "version_name": "1.4.1",
-  "apk_filename": "RemoteTouchpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/remote-touchpad-releases/releases/download/v1.4.1/RemoteTouchpad-release.apk",
-  "file_size": 5431607,
+  "version_code": 13,
+  "version_name": "1.5.0",
+  "apk_filename": "Linkpad-release.apk",
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.0/Linkpad-release.apk",
+  "file_size": 5431253,
   "min_sdk": 24,
-  "release_notes": "Added direct GitHub Releases update mechanism, APK Signature Scheme v3/v4 verification, and public releases repository."
+  "release_notes": "Rebranded to Linkpad, package com.allahham.linkpad (v1.5.0), direct GitHub Updates, and signature schemes v2+v3."
 }

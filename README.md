@@ -1,6 +1,6 @@
-# 📱 Remote Touchpad & Keyboard — Official Releases
+# 📱 Linkpad — Official Releases
 
-Welcome to the official public distribution repository for **Remote Touchpad & Keyboard**.
+Welcome to the official public distribution repository for **Linkpad**.
 
 Convert your Android smartphone or modern mobile browser into an ultra-low-latency trackpad, remote keyboard with **full Arabic and Unicode typing support**, instant **URL sharing to your PC's default browser**, and **direct file transfer to your PC's Downloads folder**.
 
@@ -10,8 +10,8 @@ Convert your Android smartphone or modern mobile browser into an ultra-low-laten
 
 | Package | Platform | Latest Release | Download Link |
 |---|---|---|---|
-| **Android APK** | Android 7.0+ (API 24+) | **v1.4.1** (Build 12) | [Download RemoteTouchpad-release.apk](https://github.com/Omar-allahham/remote-touchpad-releases/releases/latest/download/RemoteTouchpad-release.apk) |
-| **Windows Installer** | Windows 10 & 11 (64-bit) | **v1.4.0** | [Download RemoteTouchpad-Setup.exe](https://github.com/Omar-allahham/remote-touchpad-releases/releases/latest/download/RemoteTouchpad-Setup.exe) |
+| **Android APK** | Android 7.0+ (API 24+) | **v1.5.0** (Build 13) | [Download Linkpad-release.apk](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/Linkpad-release.apk) |
+| **Windows Installer** | Windows 10 & 11 (64-bit) | **v1.4.0** | [Download RemoteTouchpad-Setup.exe](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/RemoteTouchpad-Setup.exe) |
 
 ---
 
@@ -19,7 +19,7 @@ Convert your Android smartphone or modern mobile browser into an ultra-low-laten
 
 All release APKs in this repository are cryptographically signed with our verified release key.
 
-- **Package Name**: `com.example.remotetouchpad`
+- **Package Name**: `com.allahham.linkpad`
 - **Developer / Issuer**: `CN=Remote Touchpad, O=OpenSource, C=US`
 - **Certificate SHA-256 Fingerprint**:
   ```text
@@ -29,7 +29,7 @@ All release APKs in this repository are cryptographically signed with our verifi
 
 To verify the APK signature integrity on your machine:
 ```bash
-apksigner verify --verbose RemoteTouchpad-release.apk
+apksigner verify --verbose Linkpad-release.apk
 ```
 
 ---
