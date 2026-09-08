@@ -10,8 +10,8 @@ Convert your Android smartphone or modern mobile browser into an ultra-low-laten
 
 | Package | Platform | Latest Release | Download Link |
 |---|---|---|---|
-| **Android APK** | Android 7.0+ (API 24+) | **v1.5.0** (Build 13) | [Download Linkpad-release.apk](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/Linkpad-release.apk) |
-| **Windows Installer** | Windows 10 & 11 (64-bit) | **v1.4.0** | [Download RemoteTouchpad-Setup.exe](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/RemoteTouchpad-Setup.exe) |
+| **Android APK** | Android 7.0+ (API 24+) | **v1.5.1 (Build 14)** (Build 13) | [Download Linkpad-release.apk](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/Linkpad-release.apk) |
+| **Windows Installer** | Windows 10 & 11 (64-bit) | **v1.5.1 (Build 14)** | [Download RemoteTouchpad-Setup.exe](https://github.com/Omar-allahham/linkpad-releases/releases/latest/download/RemoteTouchpad-Setup.exe) |
 
 ---
 
