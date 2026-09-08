@@ -1,9 +1,9 @@
 {
-  "version_code": 15,
-  "version_name": "1.5.2",
+  "version_code": 16,
+  "version_name": "1.5.3",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.2/Linkpad-release.apk",
-  "file_size": 5482474,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.3/Linkpad-release.apk",
+  "file_size": 5485157,
   "min_sdk": 24,
-  "release_notes": "### Linkpad v1.5.2 (Build 15)\n- Fixed quick access notification visibility with dedicated channel and full RemoteViews styling\n- Added categorized submenus per remote type (Touchpad & Media, PC Power Controls, Roku TV Remote)\n- Added full Roku TV action support (TV Power, D-Pad, Volume, Home, Back, HDMI 1)\n- Direct local Wi-Fi Roku ECP execution with server fallback\n- Immediate notification permission prompts and Android Settings guidance"
+  "release_notes": "### Linkpad v1.5.3 (Build 16)\n- Added smart TV power toggle sync to Quick Actions (TV off sleeps PC, TV on wakes PC via WoL)\n- Direct local Wi-Fi Roku ECP execution with server fallback\n- Fallback endpoint support for PC sleep command"
 }
