@@ -1,9 +1,9 @@
 {
-  "version_code": 16,
-  "version_name": "1.5.3",
+  "version_code": 17,
+  "version_name": "1.5.4",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.3/Linkpad-release.apk",
-  "file_size": 5485157,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.4/Linkpad-release.apk",
+  "file_size": 5490692,
   "min_sdk": 24,
-  "release_notes": "### Linkpad v1.5.3 (Build 16)\n- Added smart TV power toggle sync to Quick Actions (TV off sleeps PC, TV on wakes PC via WoL)\n- Direct local Wi-Fi Roku ECP execution with server fallback\n- Fallback endpoint support for PC sleep command"
+  "release_notes": "Added Function Keys dialog (F1-F12, Ins, Home, End, Del, PgUp, PgDn, Esc, Tab), default Live Keys mode, and unified bottom View Switcher Navigation Bar (Remote, Roku, Updates)."
 }
