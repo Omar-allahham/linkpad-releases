@@ -1,9 +1,9 @@
 {
-  "version_code": 18,
-  "version_name": "1.5.5",
+  "version_code": 19,
+  "version_name": "1.5.6",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.5/Linkpad-release.apk",
-  "file_size": 5491876,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.6/Linkpad-release.apk",
+  "file_size": 5493006,
   "min_sdk": 24,
-  "release_notes": "Added Reverse Scroll Direction setting (Android app & Web client), fixed Home Assistant multi-NIC host ID synchronization and editable connection host settings."
+  "release_notes": "Share app entry"
 }
