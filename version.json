@@ -1,9 +1,9 @@
 {
-  "version_code": 19,
-  "version_name": "1.5.6",
+  "version_code": 20,
+  "version_name": "1.5.7",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.6/Linkpad-release.apk",
-  "file_size": 5493006,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.7/Linkpad-release.apk",
+  "file_size": 5493065,
   "min_sdk": 24,
-  "release_notes": "Share app entry"
+  "release_notes": "Update Share App action to share direct release APK download URL"
 }
