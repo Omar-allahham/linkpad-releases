@@ -1,9 +1,9 @@
 {
-  "version_code": 17,
-  "version_name": "1.5.4",
+  "version_code": 18,
+  "version_name": "1.5.5",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.4/Linkpad-release.apk",
-  "file_size": 5490692,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.5/Linkpad-release.apk",
+  "file_size": 5491876,
   "min_sdk": 24,
-  "release_notes": "Added Function Keys dialog (F1-F12, Ins, Home, End, Del, PgUp, PgDn, Esc, Tab), default Live Keys mode, and unified bottom View Switcher Navigation Bar (Remote, Roku, Updates)."
+  "release_notes": "Added Reverse Scroll Direction setting (Android app & Web client), fixed Home Assistant multi-NIC host ID synchronization and editable connection host settings."
 }
