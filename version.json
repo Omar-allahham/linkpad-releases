@@ -1,9 +1,9 @@
 {
-  "version_code": 21,
-  "version_name": "1.5.8",
+  "version_code": 22,
+  "version_name": "1.5.9",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.8/Linkpad-release.apk",
-  "file_size": 5566413,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.9/Linkpad-release.apk",
+  "file_size": 5575066,
   "min_sdk": 24,
-  "release_notes": "Maintenance update with stability and performance improvements."
+  "release_notes": "Added Parental Control timer: run host for N minutes, automatically put PC to sleep, and enforce a 30-second wake grace period before sleeping again until turned off in the app."
 }
