@@ -1,9 +1,9 @@
 {
-  "version_code": 22,
-  "version_name": "1.5.9",
+  "version_code": 23,
+  "version_name": "1.6.0",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.5.9/Linkpad-release.apk",
-  "file_size": 5575066,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.6.0/Linkpad-release.apk",
+  "file_size": 5575401,
   "min_sdk": 24,
-  "release_notes": "Added Parental Control timer: run host for N minutes, automatically put PC to sleep, and enforce a 30-second wake grace period before sleeping again until turned off in the app."
+  "release_notes": "Added Parental Control timer & persistent Turn Off signal: clicking Turn Off Parental Control while the PC is asleep stores the disarm signal in the app and automatically disarms the PC as soon as it wakes up and connects."
 }
