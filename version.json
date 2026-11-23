@@ -1,9 +1,9 @@
 {
-  "version_code": 26,
-  "version_name": "1.6.2",
+  "version_code": 27,
+  "version_name": "1.6.3",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.6.2/Linkpad-release.apk",
-  "file_size": 5583437,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.6.3/Linkpad-release.apk",
+  "file_size": 5584509,
   "min_sdk": 24,
-  "release_notes": "Parental Control sleep/wake sync improvements: local countdown continues while PC is asleep, instant WebSocket & HTTP status sync when PC wakes from sleep, and 10s wake grace protection when timer expires during manual sleep."
+  "release_notes": "Authenticated remote API parity, redesigned Web UI with login gate, multi-NIC Wake-on-LAN across all adapters, and Windows/Linux audio tracking."
 }
