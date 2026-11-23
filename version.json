@@ -1,9 +1,9 @@
 {
-  "version_code": 27,
-  "version_name": "1.6.3",
+  "version_code": 28,
+  "version_name": "1.6.4",
   "apk_filename": "Linkpad-release.apk",
-  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.6.3/Linkpad-release.apk",
-  "file_size": 5584509,
+  "apk_url": "https://github.com/Omar-allahham/linkpad-releases/releases/download/v1.6.4/Linkpad-release.apk",
+  "file_size": 5586890,
   "min_sdk": 24,
-  "release_notes": "Authenticated remote API parity, redesigned Web UI with login gate, multi-NIC Wake-on-LAN across all adapters, and Windows/Linux audio tracking."
+  "release_notes": "Fix multi-interface Wake-on-LAN & MAC caching, and add installable offline-capable PWA with Roku TV direct control & WoL relay."
 }
